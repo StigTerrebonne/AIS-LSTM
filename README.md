@@ -4,6 +4,7 @@ About
 ------------
 LSTM Keras Neural Network to predict ship location using Danish AIS data  
 Data Found [Here](ftp://ftp.ais.dk/ais_data/) - CSV files too large to include in repository 
+<a href="ftp://ftp.ais.dk/ais_data/">JHere</a>
 
 Project Folder Structure
 ------------
