@@ -3,7 +3,7 @@
 """
 Title: pull_danish_data.py
 Objective: Pull and sort data to be preprocessed
-Creator: Stig Terrebonne, Michael Doyle
+Creator: Stig Terrebonne
 Date: July 25th, 2018
 """
 
