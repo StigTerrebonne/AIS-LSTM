@@ -3,7 +3,7 @@
 """
 Title: danish_model.py
 Objective: Create a Keras model and Train with AIS Data
-Creator: Stig Terrebonne and Michael Doyle
+Creator: Stig Terrebonne
 Date: July 27th, 2018
 """
 
