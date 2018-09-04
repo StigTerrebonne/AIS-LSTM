@@ -181,7 +181,7 @@ for i in range(size):
         fill_color='#3186cc'
     ).add_to(m)
 
-m.save("C:\\Users\sterrebonne\Desktop\map.html")
+m.save("map.html")
 
 # TODO:
 # can graph multiple prediction points and AOU's
