@@ -3,7 +3,7 @@
 """
 Title: danish_preproc.py
 Objective: Clean sorted data to prepare for training
-Creator: Stig Terrebonne, Michael Doyle
+Creator: Stig Terrebonne
 Date: July 25th, 2018
 """
 
