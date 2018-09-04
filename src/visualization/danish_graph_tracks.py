@@ -48,4 +48,4 @@ for i in range(len(test)):
         weight=2.5
     ).add_to(m)
 
-m.save("C:\\Users\sterrebonne\Desktop\danish_tracks.html")
+m.save("danish_tracks.html")
